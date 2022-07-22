@@ -23,7 +23,7 @@ export function HomePage() {
                                 <div className="card-body">
                                     <h5 className="card-title">{user.name}</h5>
                                     <p className="card-text">{user.email}</p>
-                                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                                    <button className="btn btn-primary">Go somewhere</button>
                                 </div>
                             </div>
                         </div>
